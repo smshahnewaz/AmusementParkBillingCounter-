@@ -1,0 +1,2 @@
+# AmusementParkBillingCounter-
+An Amusement park company wants one application for their billing counter to enable ticket sale. Assume the Amusement park authorities approachedMax to get this application developed.This application should have ticket prize asRs400 per person and if a person buys more than 10 tickets then person is eligible for 10 percent discount. Calculate the total bill or amount according to the number of tickets that are sold.
